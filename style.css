@@ -90,3 +90,22 @@ p{
 .row h1{
     color:azure;
 }
+.sec2{
+    padding: 30px;
+    display: inline;
+}
+.sec2{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 400px;
+    /* background-color:#101010; */
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.about{
+    padding-right: 80px;
+}
+.products{
+    padding: 30px;
+}
+
